@@ -1,0 +1,140 @@
+body {
+  background-color:lightgoldenrodyellow; 
+  border-color: lightgoldenrodyellow ; 
+  border-width: .5em;
+  border-style: solid;  
+  margin: 0;
+  padding: 0;
+  
+    
+  }
+  h1 {
+    color: white;
+  }
+  h2 {
+    font-size: medium;
+  }
+  #par {
+    color: rgb(6, 6, 78);
+    font-family: sans-serif;
+    font-style: oblique;
+    padding-left: 20px;
+    
+    
+    
+  }
+  h5{
+    font-style: oblique;
+    text-decoration: double;
+    color: rgb(7, 7, 59);
+    font-size: 1.2pc;
+    padding-left: 10px;
+
+  }
+  #tab
+  {
+    padding-left: 200px;
+    background-color:lightgoldenrodyellow;
+  }
+  #hed{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    padding-left: 10px;
+    font-size: 1.1pc;
+  }
+ 
+  #nam{
+    background-color: powderblue; 
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+  }
+  .div1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:lightyellow;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+  }
+  .nav2{
+    
+    padding-top: 10px;
+    background-color:lightyellow;
+    float: left;
+    align-content: center;
+    
+  }
+  .nav1 a{
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black; 
+    font-weight: 1500;
+    border-radius: 25%;
+  }
+  .nav1 a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .nav1 .icon {
+    display: none;
+  }
+  .div2{
+    background-color:red
+  }
+  
+  .div3{
+    background-color: gray;
+  }
+  .div4{
+    
+    background-color:gainsboro;
+  }
+  .btnsize{
+    height: 50px;
+    width: 100px;
+  }
+  #colo2
+  {
+    color: black;
+
+  }
+
+.test2
+{
+  padding-left: 15px;
+  font-size: 1pc;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+  font: 800;
+}
+#colo{
+  background-color: rgb(156, 61, 71);
+  margin-left: 10px;
+  border-radius: 25%;
+}
+.container {
+  display: grid;
+  grid-gap: 10px;
+  max-width: auto;
+  margin: 0 auto;
+  
+}
+
+@media screen and (max-width: 500px) {
+  .container{
+    display: grid;
+    max-width: 500px;
+  }
+}

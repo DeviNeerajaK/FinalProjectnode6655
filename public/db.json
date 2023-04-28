@@ -1,0 +1,62 @@
+[{
+  "id":1,
+  "motelid":"4567",
+  "motelname": "Amigo Motor Lodge",
+  "address": "200 city st, Salida, Colorado",
+  "number" : "+13456755467",
+  "totalrooms" : 20,
+  "roomavailability" : 2,
+  "available" : true ,
+  "cost" : "$700/day",
+  "rating" : "4.8"
+
+},
+{
+  "id":2,
+  "motelid":"3469",
+  "motelname": "Tourists",
+  "address": "493 liver st, North Adams, Massachusetts",
+  "number" : "+15478958765",
+  "totalrooms" : 20,
+  "roomavailability" : 0,
+  "available" : false ,
+  "cost" : "$300/day",
+  "rating" : "3.9"
+},
+{
+  "id":3,
+  "motelid":"1289",
+  "motelname": "Coachman Hotel",
+  "address": "20 N forest st, Lake Tahoe, California",
+  "number" : "+19874563876",
+  "totalrooms" : 60,
+  "roomavailability" : 10,
+  "available" : true ,
+  "cost" : "$150/day",
+  "rating" : "3.5"
+},
+{
+  "id":4,
+  "motelid":"4389",
+  "motelname": "Anvil Hotel",
+  "address": "300 mount st, Jackson, Wyoming",
+  "number" : "+16765648987",
+  "totalrooms" : 30,
+  "roomavailability" : 5,
+  "available" : true ,
+  "cost" : "$70/day",
+  "rating" : "3.3"
+},
+{
+  "id":5,
+  "motelid":"9009",
+  "motelname": "The Astro",
+  "address": "10 hill lane, Santa Rosa, California",
+  "number" : "+12786584738",
+  "totalrooms" : 20,
+  "roomavailability" : 0,
+  "available" : false ,
+  "cost" : "$155/day",
+  "rating" : "4.3"
+}
+]
